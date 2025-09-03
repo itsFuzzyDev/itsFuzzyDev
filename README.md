@@ -1,9 +1,11 @@
 # Hi, I'm Fuzzy 👋  
 
+I develop stuff 🙂
+<!--
 💻 Passionate about building useful projects.  
 🚀 Currently exploring AI.  
 🎯 Interested in creating tools, apps, and systems that make life easier.  
-
+-->
 ---
 
 ### 🔧 Tech Stack
